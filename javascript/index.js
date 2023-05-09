@@ -1,0 +1,1 @@
+require('./src/dist/index.js');
